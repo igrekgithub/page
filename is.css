@@ -1,0 +1,44 @@
+body {
+	background: rgb(109, 102, 237);
+	background: linear-gradient(176deg, rgba(109, 102, 237, 1) 0%, rgba(102, 199, 194, 1) 52%, rgba(0, 255, 172, 1) 100%);
+}
+
+.h1 {
+	color: #50112b;
+	font-style: italic;
+	font-size: 40px;
+}
+.roster li {
+	list-style: none;
+	font-size: 25px;
+	font-style: italic;
+	font-weight: bold;
+	color: #7c2937;
+}
+h4 {
+	color: rgb(31, 14, 128);
+	text-decoration:none;
+	font-style: italic;
+	font-size: 35px;
+	text-shadow: 3px 3px 3px pink;
+}
+
+h3 {
+	color: brown;
+	font-size: 24px;
+	font-style: italic;
+}
+h5 {
+	color: rgb(241, 221, 33);
+	font-size: 35px;
+	font-style: italic;
+	font-weight: 700;
+	text-shadow: 3px 2px 1px rgb(21, 4, 68);
+}
+.hi {
+	color: rgb(200, 245, 245);
+	font-size: 50px;
+	font-style: italic;
+	font-weight: 700;
+	text-shadow: 5px 3px 3px rgb(21, 4, 68);
+}
